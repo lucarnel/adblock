@@ -1,0 +1,36 @@
+! Title: ENL Filter
+
+! buananetpbun.github.io
+buananetpbun.github.io###myModal
+
+! meuguia.tv
+meuguia.tv##.ad
+meuguia.tv##li.divider
+
+! www.strava.com
+www.strava.com##.upgrade.nav-item
+
+! suamusica.com.br
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll.styles_layoutFiltersContainer__jehXq:nth-child(3) > div.infinite-scroll-component__outerdiv:last-child > div.infinite-scroll-component.styles_infiniteScroll___XS0f > div > div.styles_feedContainer__k1oZf > section.smContainer.row.g-0:last-child > div.styles_sidebar__eDbOf.col-md-4:nth-child(2)
+suamusica.com.br##.styles_listProfilesContainer__ij3sz, .styles_isSuggestion__0Qyw3
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll.styles_layoutFiltersContainer__jehXq:nth-child(3) > div.styles_desktopSearchContainer__BnTvw:last-child > div > section.smContainer.styles_grayed__wHhkT:first-child > div.row:last-child > div.col-md-12.col-lg-8:first-child > div.row:last-child > div.col-md-9:last-child > div.styles_contentSectionContainer__Jy3m2:last-child
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll.styles_layoutFiltersContainer__jehXq:nth-child(3) > div.styles_desktopSearchContainer__BnTvw:last-child > div > div.smContainer:last-child > div.styles_moreNews__FnJ0I > div.styles_contentSectionContainer__Jy3m2
+suamusica.com.br##.\.d-md-none, .col-lg-4
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll:nth-child(3) > section.home_homeContainer__3z7ef:last-child > div.smContainerFluid:nth-child(3) > div.smContainer > div.styles_contentSectionContainer__Jy3m2.styles_topNewsContainer__mJH2a:nth-child(5)
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll:nth-child(3) > section.home_homeContainer__3z7ef:last-child > div.smContainerFluid:nth-child(3) > div.smContainer > div.styles_contentSectionContainer__Jy3m2:nth-child(8)
+suamusica.com.br##.home_newsSession__EgQfw
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll:nth-child(3) > div:last-child > section.styles_albumContainer__c_MXv > section.smContainer.row.g-0:last-child > div.styles_contentSectionContainer__Jy3m2:last-child
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll:nth-child(3) > div:last-child > section.styles_albumContainer__c_MXv > section.smContainer.row.g-0:last-child > div.styles_albumBody__SAf8b.col-md-8:first-child > div.row.g-5:nth-child(3)
+suamusica.com.br###player > div.styles_playQueueContainer__1b4Xq:last-child
+
+! www.netshoes.com.br
+www.netshoes.com.br##.overlay-floater
+
+! invidious.lunar.icu
+invidious.lunar.icu##div.h-box:nth-of-type(2)
+
+! mail.yahoo.com
+mail.yahoo.com##div[data-test-id="mail-right-rail"]
+
+! www.muambator.com.br
+www.muambator.com.br##.text-center.bg-warning
